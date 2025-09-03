@@ -1,4 +1,4 @@
-# 🚨 ResQAlerts - Emergency Notification Mobile App
+# ResQAlerts - Emergency Notification Mobile App
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.29.1-blue.svg)](https://flutter.dev)
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com)
@@ -336,5 +336,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **ResQAlerts** aims to create safer communities by leveraging technology to connect people during emergencies, enabling faster response times and better coordination of assistance efforts.
 
 **⭐ Star this repository if you believe in community-powered emergency response!**
+
 
 *Developed with passion to create safer communities through mobile technology.*
